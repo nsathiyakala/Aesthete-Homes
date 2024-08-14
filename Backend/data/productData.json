@@ -1,0 +1,330 @@
+[
+    
+    {
+            "name": "Radiant Glow Lamp",
+            "price": 699,
+            "description": "Elegant lamp that brings a warm glow to any room.",
+            "reviews": "4.3",
+            "images": [{"images": "/images/lamp(3).jpg"}],
+            "category": "Lamp",
+            "stock": "15",
+            "Seller": "amazon"
+    },
+    {
+            "name": "Serenity Water Fountain",
+            "price": 1299,
+            "description": "Indoor water fountain that creates a peaceful ambiance.",
+            "reviews": "4.7",
+            "images": [{"images": "/images/fountain(2).jpg"}],
+            "category": "Fountain",
+            "stock": "10",
+            "Seller": "flipkart"
+    },
+    {
+        "name": "Elegant Wall Mirror",
+        "price": 999,
+        "description": "Wall mirror with an elegant frame design.",
+        "reviews": "4.7",
+        "images": [{"images": "/images/mirror(4).jpg"}],
+        "category": "Mirror",
+        "stock": "10",
+        "Seller": "flipkart"
+    },
+    
+    {
+            "name": "Terracotta Pot",
+            "price": 349,
+            "description": "Handcrafted terracotta pot for your indoor plants.",
+            "reviews": "4.4",
+            "images": [{"images": "/images/pot(5).jpg"}],
+            "category": "Pot",
+            "stock": "25",
+            "Seller": "snapdeal"
+    },
+    {
+        "name": "Rustic Charm Lamp",
+        "price": 649,
+        "description": "Rustic lamp that adds charm to your home decor.",
+        "reviews": "4.0",
+        "images": [{"images": "/images/lamp(6).jpg"}],
+        "category": "Lamp",
+        "stock": "20",
+        "Seller": "snapdeal"
+    },
+    {
+        "name": "Zen Garden Fountain",
+        "price": 1450,
+        "description": "Bring tranquility to your home with this Zen fountain.",
+        "reviews": "4.8",
+        "images": [{"images": "/images/fountain(3).jpg"}],
+        "category": "Fountain",
+        "stock": "12",
+        "Seller": "amazon"
+    },
+    {
+        "name": "Vintage Style Mirror",
+        "price": 899,
+        "description": "A beautiful vintage mirror to enhance your decor.",
+        "reviews": "4.6",
+        "images": [{"images": "/images/mirror(2).jpg"}],
+        "category": "Mirror",
+        "stock": "5",
+        "Seller": "myntra"
+    },
+    {
+        "name": "Modern Touch Lamp",
+        "price": 759,
+        "description": "Modern lamp with touch control and dimmable settings.",
+        "reviews": "4.2",
+        "images": [{"images": "/images/lamp(7).jpg"}],
+        "category": "Lamp",
+        "stock": "18",
+        "Seller": "flipkart"
+    },
+    {
+        "name": "Ceramic Pot",
+        "price": 399,
+        "description": "Stylish ceramic pot perfect for small plants.",
+        "reviews": "4.1",
+        "images": [{"images": "/images/pot(2).jpg"}],
+        "category": "Pot",
+        "stock": "30",
+        "Seller": "amazon"
+    },
+    {
+            "name": "Aromatic Fables Vase",
+            "price": 489,
+            "description": "Elegant vase to accentuate your living space.",
+            "reviews": "4.5",
+            "images": [{"images": "/images/vase(2).jpg"}],
+            "category": "Vase",
+            "stock": "20",
+            "Seller": "amazon"
+    }, 
+    {
+            "name": "Natural Clay Pot",
+            "price": 289,
+            "description": "Simple and natural clay pot for a minimalist look.",
+            "reviews": "4.2",
+            "images": [{"images": "/images/pot(4).jpg"}],
+            "category": "Pot(4)",
+            "stock": "22",
+            "Seller": "myntra"
+    },
+    {
+        "name": "WOOD FLOOR LAMP",
+        "price": 650,
+        "description": "Add a touch of WOOD FLOOR LAMP to your decor with this beautifully crafted lamp, ideal for cozy nights at home.",
+        "reviews": "4.6",
+        "images": [
+            {"images": "/images/lamp(2).jpg"}
+        ],
+        "category": "Lamp",
+        "stock": "20",
+        "Seller": "flipkart"
+    },
+    {
+            "name": "Antique Vase",
+            "price": 599,
+            "description": "Antique style vase for a vintage decor touch.",
+            "reviews": "4.4",
+            "images": [{"images": "/images/vase(1).jpg"}],
+            "category": "Vase",
+            "stock": "15",
+            "Seller": "myntra"
+    },
+
+
+    {
+        "name": "Mystic Glow Lamp",
+        "price": 789,
+        "description": "Illuminate your home with the enchanting glow of the Mystic Glow Lamp, perfect for creating a serene ambiance.",
+        "reviews": "4.7",
+        "images": [
+            {"images": "/images/lamp(5).jpg"}
+        ],
+        "category": "Lamp",
+        "stock": "15",
+        "Seller": "flipkart"
+    },
+    {
+        "name": "Modern Elegance Lamp",
+        "price": 899,
+        "description": "Brighten up your space with the Modern Elegance Lamp, a stylish and contemporary lighting solution for any home.",
+        "reviews": "4.8",
+        "images": [
+            {"images": "/images/lamp(1).jpg"}
+        ],
+        "category": "Lamp",
+        "stock": "12",
+        "Seller": "flipkart"
+    },
+    {
+        "name": "Zen Serenity Fountain",
+        "price": 1800,
+        "description": "Achieve ultimate relaxation with the Zen Serenity Fountain, featuring soothing water sounds and a sleek design.",
+        "reviews": "4.9",
+        "images": [
+            {"images": "/images/fountain(1).jpg"}
+        ],
+        "category": "Fountain",
+        "stock": "8",
+        "Seller": "ebay"
+    },
+    {
+        "name": "Modernist Lamp",
+        "price": 810,
+        "description": "The Modernist Lamp is a versatile lighting solution that adds a touch of contemporary style to any room.",
+        "reviews": "4.8",
+        "images": [
+            {"images": "/images/lamp(8).jpg"}
+        ],
+        "category": "Lamp",
+        "stock": "14",
+        "Seller": "flipkart"
+    },
+    {
+        "name": "Wall Hanging Mirror",
+        "price": 1050,
+        "description": "The Wall Hanging Mirror is a stylish addition to any room, offering both functionality and elegance.",
+        "reviews": "4.6",
+        "images": [
+            {"images": "/images/mirror(5).jpg"}
+        ],
+        "category": "Mirror",
+        "stock": "12",
+        "Seller": "amazon"
+    },
+
+    {
+        "name": "Blooming Garden Pot",
+        "price":370,
+        "description": "The Blooming Garden Pot is ideal for your favorite plants, with a design that blends seamlessly into any garden or home decor.",
+        "reviews": "4.2",
+        "images": [
+            {"images": "/images/pot(3).jpg"}
+        ],
+        "category": "Pot",
+        "stock": "28",
+        "Seller": "snapdeal"
+    },
+    
+    {
+        "name": "Illuminated Grace Lamp",
+        "price": 750,
+        "description": "The Illuminated Grace Lamp offers a warm, inviting glow, making it a perfect addition to any living space.",
+        "reviews": "4.6",
+        "images": [
+            {"images": "/images/lamp(4).jpg"}
+        ],
+        "category": "Lamp",
+        "stock": "17",
+        "Seller": "flipkart"
+    },
+    {
+        "name": "Classic Heart Mirror",
+        "price": 799,
+        "description": "An Heart mirror that adds a classic touch to any room.",
+        "reviews": "4.5",
+        "images": [{"images": "/images/mirror(6).jpg"}],
+        "category": "Mirror",
+        "stock": "8",
+        "Seller": "myntra"
+    },
+    
+    {
+        "name": "Classic Beauty Mirror",
+        "price": 850,
+        "description": "Enhance your home decor with the Classic Beauty Mirror, featuring an elegant design that suits any style.",
+        "reviews": "4.5",
+        "images": [
+            {"images": "/images/mirror(3).jpg"}
+        ],
+        "category": "Mirror",
+        "stock": "22",
+        "Seller": "amazon"
+    },
+    
+    {
+        "name": "Contemporary Style Pot",
+        "price": 420,
+        "description": "The Contemporary Style Pot is a chic and modern option for displaying your favorite plants and flowers.",
+        "reviews": "4.3",
+        "images": [
+            {"images": "/images/pot(6).jpg"}
+        ],
+        "category": "Pot",
+        "stock": "25",
+        "Seller": "snapdeal"
+    },
+    {
+        "name": "Radiant Shine Mirror",
+        "price": 950,
+        "description": "The Radiant Shine Mirror provides a brilliant reflection, enhancing the light and space in any room.",
+        "reviews": "4.7",
+        "images": [
+            {"images": "/images/mirror(8).jpg"}
+        ],
+        "category": "Mirror",
+        "stock": "15",
+        "Seller": "amazon"
+    },
+   
+    {
+        "name": "Elegant Reflection Mirror",
+        "price": 999,
+        "description": "This Elegant Reflection Mirror adds a touch of sophistication to any room with its sleek design and crystal-clear reflection.",
+        "reviews": "4.8",
+        "images": [
+            {"images": "/images/mirror(1).jpg"}
+        ],
+        "category": "Mirror",
+        "stock": "25",
+        "Seller": "amazon"
+    },
+    {
+        "name": "Classic Oval Mirror",
+        "price": 799,
+        "description": "An oval mirror that adds a classic touch to any room.",
+        "reviews": "4.5",
+        "images": [
+          {
+            "images": "/images/mirror(7).jpg"
+          }
+        ],
+        "category": "Mirror",
+        "stock": "8",
+        "Seller": "myntra"
+    },
+    {
+        "name": "Crystal Elegance Vase",
+        "price": 520,
+        "description": "Showcase your flowers in the Crystal Elegance Vase, featuring a timeless design that complements any decor.",
+        "reviews": "4.6",
+        "images": [
+            {"images": "/images/vases.jpg"}
+        ],
+        "category": "Vase",
+        "stock": "18",
+        "Seller": "flipkart"
+    },
+    {
+        "name": "Garden Bliss Pot",
+        "price": 350,
+        "description": "Perfect for your indoor plants, the Garden Bliss Pot combines functionality and style to complement your greenery.",
+        "reviews": "4.4",
+        "images": [
+            {"images": "/images/pot(1).jpg"}
+        ],
+        "category": "Pot",
+        "stock": "30",
+        "Seller": "snapdeal"
+    }
+    
+
+    
+
+    
+   
+
+]
