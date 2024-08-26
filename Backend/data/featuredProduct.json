@@ -1,43 +1,51 @@
-[
+[{
+  "_id": {
+    "$oid": "6665a037cdfaa079269958d9"
+  },
+  "name": "Wall Hanging Mirror",
+  "price": "608",
+  "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus.",
+  "reviews": "4.5",
+  "images": [
     {
-        "name":"Wall Hanging Mirror",
-        "price":"₹608",
-        "description":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus.",
-        "reviews":"4.5",
-        "images":[
-            {"images":"./images/mirror(5).jpg"}
-
-        ],
-        "category":"mirror",
-        "stock":"20",
-        "Seller":"amazon"
-    },
-    {
-        "name":"WOOD FLOOR LAMP",
-        "price":"₹500",
-        "description":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus.",
-        "reviews":"4.5",
-        "images":[
-            {"images":"./images/lamp(2).jpg"}
-
-        ],
-        "category":"Lamps",
-        "stock":"20",
-        "Seller":"amazon"
-    },
-    {
-        "name":" Aromatic Fables Vase",
-        "price":"₹489",
-        "description":"Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus.",
-        "reviews":"4.5",
-        "images":[
-            {"images":"./images/vase(2).jpg"}
-            
-           
-
-        ],
-        "category":"Vase",
-        "stock":"20",
-        "Seller":"amazon"
+      "images": "/images/mirror(5).jpg"
     }
-]
+  ],
+  "category": "mirror",
+  "stock": "7",
+  "Seller": "amazon"
+},
+{
+  "_id": {
+    "$oid": "6665a037cdfaa079269958da"
+  },
+  "name": "WOOD FLOOR LAMP",
+  "price": "500",
+  "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus.",
+  "reviews": "4.5",
+  "images": [
+    {
+      "images": "/images/lamp(2).jpg"
+    }
+  ],
+  "category": "Lamps",
+  "stock": "20",
+  "Seller": "amazon"
+},
+{
+  "_id": {
+    "$oid": "6665a037cdfaa079269958db"
+  },
+  "name": " Aromatic Fables Vase",
+  "price": "489",
+  "description": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridicu lus mus.",
+  "reviews": "4.5",
+  "images": [
+    {
+      "images": "/images/vase(2).jpg"
+    }
+  ],
+  "category": "Vase",
+  "stock": "20",
+  "Seller": "amazon"
+}]
