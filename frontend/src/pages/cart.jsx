@@ -34,15 +34,23 @@ export default function Cart({cartItem,setCartItems}) {
         setCartItems(updateItem)
      }
 
-     function removeItem(item){
-        const updateItem = cartItem.filter((i)=>{
-            if(i.productDetail._id !== item.productDetail._id){
-                return true;
-            }
+    //  function removeItem(item){
+    //     const updateItem = cartItem.filter((i)=>{
+    //         if(i.productDetail._id !== item.productDetail._id){
+    //             return true;
+    //         }
             
-        })
-           setCartItems(updateItem);
-     }
+    //     })
+    //        setCartItems(updateItem);
+    //  }
+
+    function removeItem(item) {
+        const updateItem = cartItem.filter((i) => {
+            return i.productDetail._id !== item.productDetail._id;
+        });
+        
+        setCartItems(updateItem);
+    }
 
     const [complete,setComplete] =useState(false)
 

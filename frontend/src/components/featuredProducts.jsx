@@ -6,7 +6,7 @@ export default function FeaturedProducts({featuredProducts}) {
    <Fragment >
      <div class="col-12 col-md-6 col-lg-4 my-3 product-card-col">
           <div class="card p-3 rounded">
-            <img
+            <img alt={featuredProducts.name}
               class="card-img-top mx-auto"
               src={featuredProducts.images[0].images}
             />

@@ -6,7 +6,7 @@ export default function Header({cartItem}) {
     <header>
             <nav className="navbar navbar-expand-lg ">
               <div className="container-fluid">
-    <a className="navbar-brand" href="#">Aesthete Homes</a>
+    <a className="navbar-brand" href="brand">Aesthete Homes</a>
     <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span className="navbar-toggler-icon"></span>
     </button>
@@ -19,10 +19,10 @@ export default function Header({cartItem}) {
           <Link to={"/products"} className="nav-link" href="#">Products</Link>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">About</a>
+          <a className="nav-link" href="aboutbutton">About</a>
         </li>
         <li className="nav-item">
-          <a className="nav-link" href="#">FAQ</a>
+          <a className="nav-link" href="faq">FAQ</a>
         </li>
       </ul>
       <div className="d-flex" role="search">
