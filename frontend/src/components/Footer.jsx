@@ -7,7 +7,7 @@ export default function Footer() {
             <div className='container footer-container'>
                 <div className='row'>
                     <div className='col-12 col-md-6 footer-content-col' >
-                        <div className='footer-content p-5'>
+                        <div className='footer-content pt-5'>
                             <h1>Asthete Homes</h1>
                             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Vero doloribus suscipit quam distinctio accusamus at optio! Molestiae, cupiditate iusto, soluta molestias architecto ipsa quae dolorem, non temporibus dolorum accusantium odit</p>
                         </div>
@@ -43,7 +43,7 @@ export default function Footer() {
                 </div>
                 <div className='row'>
                     <div className='col-12 col-md-6 footer-content-col' >
-                        <div className='footer-content p-5'>
+                        <div className='footer-content pt-5'>
                             <h3>Follow Us On</h3>
                             <div className='footer-icons'>
                                 <i class="fa-solid fa-envelope"></i>
